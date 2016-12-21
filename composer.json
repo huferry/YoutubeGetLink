@@ -1,0 +1,7 @@
+{
+    "name": "uto/youtubegetlink",
+    "description": "Web service that returns Youtube stream URL link.",
+    "require": {
+        "uto/youtubeurlsgetter": "1.0.1"
+    }
+}
